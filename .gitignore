@@ -1,3 +1,5 @@
 .idea/ 
 /my-project/vendor/
+/project/vendor/
 
+borra.sh
